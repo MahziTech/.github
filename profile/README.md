@@ -31,12 +31,12 @@ To set up the StudyBug development environment locally:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/StudyBug/StudyBug.git
+    git clone https://github.com/StudyBug/StudyBug-web-ui.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd StudyBug
+    cd StudyBug-web-ui
     ```
 
 3. **Install Dependencies:**
@@ -75,7 +75,7 @@ For any questions, feedback, or support, please contact us at:
 
 - Email: info@studybug.me
 - LinkedIn: [StudyBug LinkedIn](https://www.linkedin.com/company/studybug)
-- Instagram: [@studybug](https://www.instagram.com/studybug)
-- Twitter: [@studybug](https://twitter.com/studybug)
+- Instagram: [@studybugai](https://www.instagram.com/studybugai)
+- Twitter: [@studybugai](https://twitter.com/studybugai)
 
 Thank you for being a part of StudyBug! Let's revolutionize education together.
